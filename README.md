@@ -24,4 +24,4 @@ pip install matplotlib
 ## Structure
 The network has three layers in total, all fully connected.
 ### Neuron
-The neuron is an Integrate and Fire type neuron which is restricted to be fired only once for an input after which the network is reset. So, effectively neuron enters an infinite refractory period after it fires.
+The neuron is an Integrate and Fire type neuron which is restricted to be fired only once for an input after which the network is reset. So, effectively a neuron enters an infinite refractory period after it fires.
